@@ -5,8 +5,7 @@ You can choose one module from the list below:-
 3)Dynamic Programming
 
 
-Pawan Dubey
-Dynamic Programming
-Understanding the prolem and implementing a solution which is space and time efficient by structuring it into sub problems.
+Hari Praveen
+Python for Data Science
 
-
+Python is a go-to language for data science due to its simplicity and readability. It boasts a rich ecosystem of libraries like NumPy for numerical computing, Pandas for data manipulation, Matplotlib for visualization, and Scikit-learn for machine learning. These tools make it easy to perform tasks ranging from data cleaning to complex analyses. Its community support and extensive resources make Python highly accessible for data science newcomers and experts alike.
